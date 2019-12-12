@@ -19,4 +19,6 @@
 
    ![](./img/step_2.png)
 
-##### 源码见：
+##### 源码见：https://github.com/TianFeng-Securities/Shareholding-of-National-Team/blob/master/program.ipynb
+
+代码很烂。。不喜勿喷，喜欢中文命名变量hhh。
