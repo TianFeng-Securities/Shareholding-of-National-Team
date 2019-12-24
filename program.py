@@ -213,7 +213,7 @@ def step5():
 
 def step6(ascending=True):####默认减持
     df = 行业合并数据.copy()
-    df = df.sort_values(by='市值增减',ascending=ascending)
+    df = df.sort_values(by='占比增减',ascending=ascending)
     df.drop(columns=['行业'],inplace=True)
     df.reset_index(inplace=True)
     df = df.loc[:9,['行业','市值增减','占比增减']]
